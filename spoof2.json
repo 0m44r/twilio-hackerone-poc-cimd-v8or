@@ -1,0 +1,1 @@
+{"client_id":"https://totally-different.example/oauth/metadata.json","client_name":"twilio-hackerone-poc-spoof2","redirect_uris":["https://raw.githubusercontent.com/cb2"],"grant_types":["authorization_code"],"response_types":["code"],"token_endpoint_auth_method":"none"}
