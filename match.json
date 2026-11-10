@@ -1,0 +1,1 @@
+{"client_id":"https://raw.githubusercontent.com/0m44r/twilio-hackerone-poc-cimd-v8or/main/match.json","client_name":"twilio-hackerone-poc-match","client_uri":"https://raw.githubusercontent.com","redirect_uris":["https://raw.githubusercontent.com/cb"],"grant_types":["authorization_code"],"response_types":["code"],"token_endpoint_auth_method":"none"}
